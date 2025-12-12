@@ -817,7 +817,7 @@ img {
 
 .pages h1 {
     font-family: var(--font-heading);
-    font-size: 42px;
+    font-size: 30px;
     margin-bottom: 40px;
     color: var(--color-white);
     line-height: 1.2;

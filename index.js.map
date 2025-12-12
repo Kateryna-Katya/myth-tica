@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["// Ініціалізація іконок\ndocument.addEventListener('DOMContentLoaded', () => {\n    lucide.createIcons();\n\n    // Тут будемо додавати логіку мобільного меню та анімацій\n    console.log('Myth-Tica scripts loaded. Технология нового поколения активирована.');\n});"],"names":[],"mappings":"0uBACA,SAAS,iBAAiB,mBAAoB,IAAM,CAChD,OAAO,YAAa,EAGpB,QAAQ,IAAI,qEAAqE,CACrF,CAAC"}
